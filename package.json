@@ -1,0 +1,11 @@
+{
+  "name": "pgn-to-json",
+  "version": "1.0.0",
+  "description": "Library to convert PGN files to JSON",
+  "main": "pgn-to-json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anirudh Giri",
+  "license": "MIT"
+}
